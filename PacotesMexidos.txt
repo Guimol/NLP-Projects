@@ -1,4 +1,0 @@
-- Remove beep sound / PC Speaker
-# rmmod pcspkr
-# /etc/inputrc uncomment line: 2 - # set bell-style none
-# /etc/profile.d/ create file disable-beep.sh 
