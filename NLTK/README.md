@@ -32,3 +32,15 @@
 > * f) Verifique quais são as 5, 10 e 15 palavras mais frequentes do corpus
 > * g) Extraia as stopwords do NLTK (não do corpus ainda)
 > * h) Verifique a frequência dos tokens sem stopwords do corpus
+
+## Questão 3:
+
+> Escolha um corpus qualquer (pode ser o que foram utilizados na aula) e, usando as funções do NLTK, faça:
+> * a) Extraia todos os bigramas do corpus
+> * b) Extraia todos os trigramas do corpus
+> * c) Extraia todos os 4-gramas do corpus
+> * d) Retorne as entidades nomeadas do corpus, usando os bigramas e trigramas
+> * e) Escolha 3 palavras do seu corpus e faça o stemming delas
+> * f) Separe uma sentença do seu corpus e retorne todas as classes gramaticais das palavras da sentença. Analise se o etiquetador acertou todas as classes gramaticais
+> * g) Retorne as classes gramaticais de todas as palavras do seu corpus
+> * h) Retorne as entidades nomeadas do seu corpus, usando a técnica de chunking
