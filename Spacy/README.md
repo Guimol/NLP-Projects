@@ -2,6 +2,8 @@
 
 > [Python para Processamento de Linguagem Natural: Edição Comemorativa dos 50 anos do ICMC](https://cursosextensao.usp.br/course/view.php?id=2721)
 
+# To-do:
+
 * [ ] [Resolver Questões](https://github.com/Guimol/NLP-Projects/issues/1)
 
 # Questões sobre Spacy:
