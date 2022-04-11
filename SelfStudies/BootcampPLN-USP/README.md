@@ -87,9 +87,9 @@
 
 > Pensando em uma agenda, construa um dicionário com informações do contato sendo: CPF, nome, telefone e user no Twitter. Ao final, imprima todos os contatos na forma: 
 
-'''
+```
 CPF: nome, telefone (user) 
-'''
+```
 
 > * De cara já dá para perceber que a chave vai ser o CPF, então na criação do dicionário, deve-se incluir na forma dic[CPF] = ?
 > * Temos mais de uma informação. O que seria interessante usar? Uma lista, uma tupla, outro dicionário?
